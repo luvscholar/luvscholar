@@ -3,7 +3,7 @@
 <!--
 **luvscholar/luvscholar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me
+**I am developer with over a decade of experience in coding in over 5 languages and have executed projects with them.**
+### Skills
+I am proficient and have broad knowledge of the following languages 
+- JavaScript
+- HTML
+- CSS
+- PHP
+- PYTHON
+- C#
+- SQL/MYSQL
+- REACTNATIVE
